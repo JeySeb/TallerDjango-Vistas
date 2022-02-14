@@ -18,3 +18,5 @@ Example:
 ```bash
 pipenv run python manage.py makemigrations 
 ```
+#####################
+#LOS PANTALLAZOS SE ENCUENTRAN EN EL WORD LLAMADO PANTALLAZOS.DOCX
